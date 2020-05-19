@@ -184,6 +184,7 @@
   * [Elastisch](http://clojureelasticsearch.info/)
   * [Neo4j](http://clojureneo4j.info/)
   * [Aerospike](https://github.com/AppsFlyer/aerospike-clj)
+  * [Firestore](https://github.com/polvotech/firestore-clj)
 
 ## Connection pools
 
